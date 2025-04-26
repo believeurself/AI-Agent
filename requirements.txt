@@ -1,0 +1,5 @@
+pyautogen
+autogen-agentchat~=0.2 
+groq
+yfinance
+streamlit
