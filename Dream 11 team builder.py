@@ -1,10 +1,11 @@
+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
 import autogen
 from datetime import datetime
 import streamlit as st
 
 llm_config = [{
     "model": "deepseek-r1-distill-llama-70b",
-    "api_key": "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",
+    "api_key": "",
     "api_type": "groq"
 }]
 
